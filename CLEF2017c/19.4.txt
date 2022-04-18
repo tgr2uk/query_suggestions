@@ -1,0 +1,24 @@
+CT
+tomodensitometry
+MRI
+NMRI
+zeugmatogram
+Tomography, X-Ray Computed
+Magnetic Resonance Imaging
+echogram
+ultrasonic
+ultrasound
+EUS
+Ultrasonography
+Endosonography
+cholangiogram
+cholangiopancreatogram
+cholangioscope
+choledochoscope
+ERCP
+MRCP
+Cholangiography
+Cholangiopancreatography, Magnetic Resonance
+liver function test
+liver function tests
+Liver Function Tests

@@ -1,0 +1,7 @@
+glucose metabolism
+hypometabolism
+cerebral metabolic rate
+metabolic activity
+hypoperfusion
+CMRgl 
+rCMRGlu
