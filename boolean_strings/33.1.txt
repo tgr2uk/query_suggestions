@@ -1,0 +1,15 @@
+telco
+telecoms
+telecommunications
+telcos
+o2
+virgin
+vodafone
+"everything everywhere"
+bt
+orange
+tmobile
+"talk talk"
+cdn
+"triple play"
+"quad play"

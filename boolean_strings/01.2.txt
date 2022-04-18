@@ -1,0 +1,6 @@
+ERP
+SAP
+JDE
+Peoplesoft
+Lawson
+Baan

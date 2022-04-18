@@ -1,0 +1,22 @@
+ip
+"internet protocol"
+ipv4
+ipv6
+broadband
+ethernet
+cat5
+"triple play"
+"quad play"
+virgin
+"bt vision"
+"talk talk"
+iptv
+vpls
+mpls
+tdm
+eompls
+ott
+isp
+"adaptive streaming"
+tru2way
+openway

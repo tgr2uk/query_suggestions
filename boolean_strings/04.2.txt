@@ -1,0 +1,7 @@
+sap
+crystal
+xcelsius
+bi
+"business intelligence"
+dashboard
+data*

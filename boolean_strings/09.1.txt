@@ -1,0 +1,4 @@
+crystal reports
+data
+analysis
+inventory
