@@ -1,0 +1,10 @@
+exp Economics/
+quality of life/
+value of life/
+Quality-adjusted life years/
+models, economic/
+markov chains/
+monte carlo method/
+decision tree/
+ec.fs.
+economic$.tw.

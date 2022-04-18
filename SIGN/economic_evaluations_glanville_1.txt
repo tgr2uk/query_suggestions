@@ -1,0 +1,8 @@
+exp Health Care Costs/
+exp decision support techniques/
+economic value of life.sh.
+exp models, economic/
+markov chains.sh.
+monte carlo method.sh.
+uncertainty.sh.
+quality of life.sh.

@@ -1,0 +1,5 @@
+(clinical adj trial$).tw
+PLACEBOS/
+placebo$.tw
+randomly allocated.tw
+(allocated random$).tw

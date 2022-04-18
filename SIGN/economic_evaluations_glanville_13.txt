@@ -1,0 +1,11 @@
+"quality of life".tw.
+qol$.tw.
+hrqol$.tw.
+"Quality adjusted life year$".tw.
+qaly$.tw.
+cba.tw.
+cea.tw.
+cua.tw.
+utilit$.tw.
+markov$.tw.
+monte carlo.tw.

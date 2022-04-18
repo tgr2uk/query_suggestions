@@ -1,0 +1,4 @@
+*"Quality of Life"/
+"Quality of Life"/px [Psychology]
+QoL.ti
+"quality of life".ti

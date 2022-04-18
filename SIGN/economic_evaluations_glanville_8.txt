@@ -1,0 +1,11 @@
+"unit cost"
+unit-cost
+unit-costs
+"unit costs"
+"drug cost"
+"drug costs"
+"hospital costs"
+"health-care costs"
+"health care cost"
+"medical cost"
+"medical costs"
