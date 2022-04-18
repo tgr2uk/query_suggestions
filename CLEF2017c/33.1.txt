@@ -1,0 +1,43 @@
+Prenatal Diagnosis
+nuchal translucency
+Pregnancy-Associated Plasma Protein-A
+pregnancy associated plasma protein a
+papp-a
+Chorionic Gonadotropin, beta Subunit, Human
+human chorionic gonadotropin
+alpha-Fetoproteins
+alphafetoprotein
+alpha-fetoprotein
+afp
+unconjugated estriol
+unconjugated oestriol
+ue3
+INHIBINS
+inhibin a
+ultrasound
+amniocentesis
+chorionic villi sampling
+Chorionic Villi-Sampling
+nasal bone
+tricuspid regurgitation
+ductus venosus
+marker
+screen
+detect
+accuracy
+predict
+ROC
+ROC curve
+AUC
+Area under curve
+false negative reactions
+false positive reactions
+false positive
+false negative
+likelihood ratio
+sensitivity
+specific$ity
+diagnosis
+reproducibility of results
+reference value
+reference standard

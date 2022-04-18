@@ -1,0 +1,9 @@
+Fractures, Bone
+Fractures, stress
+Fractures, Spontaneous
+Fractures, Compression
+Fractures, Closed
+fracture
+Spinal Injuries
+Spinal Diseases
+Lumbar vertebrae

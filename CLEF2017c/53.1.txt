@@ -1,0 +1,24 @@
+Kidney Transplantation
+Pancreas Transplantation
+Kidney Failure
+Kidney Failure, Chronic
+exp Renal Dialysis
+dialysis
+chronic kidney
+chronic renal
+endstage kidney
+endstage renal
+ESRD 
+ESKD
+ESRF 
+ESKF
+hemodialysis 
+haemodialysis
+hemodiafilter
+haemodiafilter
+hemofilter
+haemofilter
+PD 
+CAPD 
+CCPD 
+APD

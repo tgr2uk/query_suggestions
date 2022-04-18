@@ -1,0 +1,49 @@
+Echocardiography
+echocardiogram
+echo
+Dipyridamole
+Dobutamine
+Adenosine
+Imaging, Three Dimensional
+Tomography, Emission-Computed
+Tomography, X-ray Computed
+SPECT
+Thallium Radioisotopes
+Nucleosides
+Technetium Tc 99m Sestamibi
+ct scan
+cat scan
+Magnetic Resonance Imaging
+Magnetic Resonance Angiography
+Diffusion Magnetic Resonance Imaging
+Echo-Planar Imaging
+echo-planar 
+echoplanar
+Coronary Angiography
+Angiography
+MRI
+magnetic resonance
+MRA
+angiogram
+coronary catheterization
+CA 
+CC
+exp Troponin
+calcium score
+Clinical Enzyme Tests
+cardiac enzyme
+exp Perfusion Imaging
+perfusion imaging
+perfusion study
+perfusion scintigram
+Exercise Test
+Radionuclide Ventriculography
+Physical Exertion
+stress test
+exercise
+ventriculogram
+treadmill
+bicycle
+Risk Assessment
+risk stratification
+risk algorithm

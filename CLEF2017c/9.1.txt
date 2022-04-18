@@ -1,0 +1,7 @@
+carcinoma
+cancer
+neoplasm 
+tumour
+tumor
+adenocarcinoma
+malignant

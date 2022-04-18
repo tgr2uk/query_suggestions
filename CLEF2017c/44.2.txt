@@ -1,0 +1,19 @@
+cancer 
+carcinoma 
+neoplasm
+dysplasia
+squamous
+CIN 
+CINII
+CIN2
+CINIII
+CIN3 
+SIL 
+HSIL 
+H-SIL 
+LSIL 
+L-SIL
+ASCUS 
+ASC R 
+ASC US 
+ASC H

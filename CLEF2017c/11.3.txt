@@ -1,0 +1,5 @@
+Diagnosis
+Examine
+Manoeuvre
+Sign
+Test

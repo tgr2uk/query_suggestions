@@ -1,0 +1,11 @@
+diagnosis
+sign
+signs
+significance
+symptom
+parameter
+assessment
+finding
+evaluation
+indication
+examination
