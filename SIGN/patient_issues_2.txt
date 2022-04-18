@@ -1,0 +1,8 @@
+"Patient Acceptance of Health Care"/
+exp attitude to health/
+consumer satisfaction/
+exp *Consumer Satisfaction/
+Patient Preference/
+"patient-focused".ti,ab.
+"patient-centered".ti,ab.
+"patient-centred".ti,ab.

@@ -1,0 +1,7 @@
+exp health education/
+patient education as topic/
+exp attitude to health/
+health knowledge, attitudes, practice/
+"informed choice".ti,ab.
+"shared decision making".ti,ab.
+empowerment.tw.

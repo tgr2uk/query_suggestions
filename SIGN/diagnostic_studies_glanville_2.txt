@@ -1,0 +1,14 @@
+exp "sensitivity and specificity"
+sensitivity
+specificity
+accuracy
+predictive value$
+roc curve$
+false positiv$
+false negativ$
+observer variation$
+likelihood ratio$
+"likelihood function/"
+"exp mass screening/"
+"diagnosis, differential"
+"Diagnostic errors"

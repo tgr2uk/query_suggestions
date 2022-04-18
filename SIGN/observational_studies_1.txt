@@ -1,0 +1,15 @@
+Epidemiologic studies/
+Exp case control studies/
+Exp cohort studies/
+Case control.tw.
+(cohort study).tw
+(cohort studies).tw.
+Cohort analy$.tw.
+(Follow up study).tw
+(Follow up studies).tw.
+(observational study).tw
+(observational studies).tw
+Longitudinal.tw.
+Retrospective.tw.
+Cross sectional.tw.
+Cross-sectional studies/

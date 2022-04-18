@@ -1,0 +1,11 @@
+cochrane[ab]
+embase[ab]
+psychlit
+psyclit
+psychinfo
+psycinfo
+cinahl
+cinhal
+"science citation index"[ab]
+bids[ab]
+cancerlit[ab]

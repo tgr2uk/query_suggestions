@@ -1,0 +1,8 @@
+singl$ blind$3
+doubl$ blind$3
+treb$ blind$3
+tripl$ blind$3
+singl$ mask$3
+doubl$ mask$3
+treb$ mask$3
+tripl$ mask$3

@@ -1,0 +1,6 @@
+budget$.tw.
+expenditure$.tw.
+(value money).tw.
+(value monetary).tw.
+fee.tw
+fees.tw

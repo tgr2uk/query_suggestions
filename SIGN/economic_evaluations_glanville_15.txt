@@ -1,0 +1,6 @@
+(clinical path?).tw.
+(clinical pathway?).tw.
+(critical path?).tw.
+(critical pathway?).tw.
+(patient path?).tw.
+(patient pathway?).tw.

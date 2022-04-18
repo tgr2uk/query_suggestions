@@ -1,0 +1,3 @@
+(patient attitude$).ti,ab.
+(patient preference$).ti,ab.
+"patient satisfaction".ti.

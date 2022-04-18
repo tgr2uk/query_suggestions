@@ -1,0 +1,8 @@
+exp "Sensitivity and Specificity"/
+sensitivity.tw.
+specificity.tw.
+pre-test probability
+pretest probability.tw.
+post-test probability.tw.
+predictive value$.tw.
+likelihood ratio$.tw.

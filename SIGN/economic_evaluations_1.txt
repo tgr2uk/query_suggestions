@@ -1,0 +1,24 @@
+Economics/
+"costs and cost analysis"/
+Cost allocation/
+Cost-benefit analysis/
+Cost control/
+Cost savings/
+Cost of illness/
+Cost sharing/
+"deductibles and coinsurance"/
+Medical savings accounts/
+Health care costs/
+Direct service costs/
+Drug costs/
+Employer health costs/
+Hospital costs/
+Health expenditures/
+Capital expenditures/
+Value of life/
+Exp economics, hospital/
+Exp economics, medical/
+Economics, nursing/
+Economics, pharmaceutical/
+Exp "fees and charges"/
+Exp budgets/

@@ -1,0 +1,4 @@
+economic$
+pharmacoeconomic$
+price$
+pricing
