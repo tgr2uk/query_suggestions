@@ -1,0 +1,4 @@
+analyst
+report*
+data
+analy*

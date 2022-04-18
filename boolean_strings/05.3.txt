@@ -1,0 +1,8 @@
+ERP
+MRP
+SAP
+"enterprise resource"
+"resource planning"
+JDE
+"JD Edwards"
+oracle

@@ -1,0 +1,8 @@
+"business analyst"
+"business system* analyst"
+"system* analyst"
+"requirement* analyst"
+BA
+BSA
+b.a.
+b.s.a.

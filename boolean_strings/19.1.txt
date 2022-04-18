@@ -1,0 +1,6 @@
+enterprise
+erp
+scm
+crm
+"supply chain management"
+"customer relationship management"

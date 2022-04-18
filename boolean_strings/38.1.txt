@@ -1,0 +1,11 @@
+driv*
+car
+travel*
+visit*
+fuel
+commute
+field
+region
+peripatetic
+community
+district*

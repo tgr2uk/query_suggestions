@@ -1,0 +1,17 @@
+"qualified nurse"
+rn
+rgn
+"dip* nursing"
+"diploma in nursing"
+"dip in nursing"
+"bachelor in nursing"
+"bsc nursing"
+"bsc in nursing"
+"bachelor* nursing"
+"bachelor of science nursing"
+"bachelor of science in nursing"
+"adult nurse"
+"first level nurse"
+"1st level nurse"
+"general nurse"
+"registered nurse"
